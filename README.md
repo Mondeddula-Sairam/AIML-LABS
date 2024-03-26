@@ -16,3 +16,7 @@
 
 [LAB-06](https://github.com/Mondeddula-Sairam/AIML-LABS/blob/main/LAB06.ipynb)
 
+
+[LAB-07](https://github.com/Mondeddula-Sairam/AIML-LABS/blob/main/Lab_07.ipynb)
+
+
