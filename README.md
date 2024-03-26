@@ -12,3 +12,7 @@
 
 
 [LAB-05](https://github.com/Mondeddula-Sairam/AIML-LABS/blob/main/Lab05.ipynb)
+
+
+[LAB-06](https://github.com/Mondeddula-Sairam/AIML-LABS/blob/main/LAB06.ipynb)
+
