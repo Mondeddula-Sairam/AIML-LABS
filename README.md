@@ -10,3 +10,5 @@
 
 [LAB-04](https://github.com/Mondeddula-Sairam/AIML-LABS/blob/main/Lab04.ipynb)
 
+
+[LAB-05](https://github.com/Mondeddula-Sairam/AIML-LABS/blob/main/Lab05.ipynb)
