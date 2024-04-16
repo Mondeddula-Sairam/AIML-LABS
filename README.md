@@ -24,3 +24,6 @@
 
 
 [LAB-09](https://github.com/Mondeddula-Sairam/AIML-LABS/blob/main/Lab_09.ipynb)
+
+[LAB-10](https://github.com/Mondeddula-Sairam/AIML-LABS/blob/main/Lab_10.ipynb)
+
